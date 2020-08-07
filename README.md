@@ -389,7 +389,7 @@ mage字幕是为给定图像生成文本描述的任务。
 最近无意收到群友推送的链接，发现得到大佬高度的认可，并在热心的推广
 
 在此感谢:
-
+    
 * [量子位](https://www.zhihu.com/org/liang-zi-wei-48): <https://www.zhihu.com/question/20472776/answer/691646493>
 * 人工智能前沿讲习: <https://mp.weixin.qq.com/s/f2dqulxOPkt7k5hqPsydyQ>
-* ApacheCN学习爱好者: <https://github.com/wangjianbing1998/ML-master>
+* ApacheCN学习爱好者: <https://github.com/ApacheCN/AiLearning-master>
